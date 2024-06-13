@@ -23,10 +23,10 @@ Run the Streamlit app:
     streamlit run app.py
 
 ## Features
-•	Text area for user input
-•	Button to run the hate speech detection
-•	Display of results in JSON format
-•	Tabs for information about the app, reasons for AI hate speech detection, and contact information
+* Text area for user input
+* Button to run the hate speech detection
+* Display of results in JSON format
+* Tabs for information about the app, reasons for AI hate speech detection, and contact information
 
 ## Contribution
 Feel free to contribute to the project by forking the repository and submitting pull requests.
